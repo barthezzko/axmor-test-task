@@ -2,7 +2,10 @@
 
 That's great to look back how it all started. :) That's one of the first pet-projects I've been working on.
 In 2010 I was looking for the first company to work and lucky me, Axmor was hiring.
-Big thanks to Andrey Kanonirov to interviewing/hiring me, Evgeniy Konchikov for managing, and Inna Pukhova and Alexander Poplavskiy for helping me with first steps in java world.   
+Big thanks to Andrey Kanonirov to interviewing/hiring me, Evgeniy Konchikov for managing, and Inna Pukhova and Alexander Poplavskiy for helping me with first steps.   
+
+## Task description
+[Task description](https://github.com/barthezzko/axmor-test-task/blob/master/task.md)
 
 ## Disclaimer
 Don't use that as a reference "how-to" - that's, obviously, not the way to go. 
